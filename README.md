@@ -26,5 +26,5 @@ Automately generate Logisim circuits with repetition structures
 
 重命名前 | 重命名后
 :---: | :---:
-![before_0](img\before_0.png) | ![after_0](img\after_0.png)
-![before_1](img\before_1.png) | ![after_1](img\after_1.png)
+![before_0](img/before_0.png) | ![after_0](img/after_0.png)
+![before_1](img/before_1.png) | ![after_1](img/after_1.png)
